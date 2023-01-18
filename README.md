@@ -1,4 +1,5 @@
 # Using Outscale Object Storage with Python
+[![Project Sandbox](https://docs.outscale.com/fr/userguide/_images/Project-Sandbox-yellow.svg)](https://docs.outscale.com/en/userguide/Open-Source-Projects.html)
 
 This small example project shows how to use [OOS](https://docs.outscale.com/en/userguide/OUTSCALE-Object-Storage-(OOS).html) using standard [boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) library.
 
